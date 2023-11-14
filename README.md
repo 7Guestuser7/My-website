@@ -1,3 +1,2 @@
-# My "website" on Larry Page
-Computer Scientist Project
-
+ # Computer scientist project
+My "website" about Larry Page
